@@ -1,2 +1,0 @@
-user name = hariharan
-password = saikrishna
